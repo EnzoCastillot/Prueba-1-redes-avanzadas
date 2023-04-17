@@ -1,0 +1,16 @@
+---------------------------------------------
+Switch: RRPP
+Jerarquia: Acceso
+Servicio: Datos, VLAN
+---------------------------------------------
+Switch: RRHH
+Jerarquia: Acceso
+Servicio: Datos, VLAN
+---------------------------------------------
+Switch: no
+Jerarquia: Distribucion
+Servicio: ["Datos", "VLAN", "Trunking"]
+---------------------------------------------
+Switch Multicapa: Enzo
+Jerarquia: Acceso
+Servicio: ["Datos", "VLAN", "Trunking", "Enrutamiento"]

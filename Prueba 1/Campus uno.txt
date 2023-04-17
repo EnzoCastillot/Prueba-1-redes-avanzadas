@@ -1,0 +1,8 @@
+-------------------------------------
+Switch multicapa: SITELOCAL
+Jerarquia: Acceso
+Servicio: Datos, Enrutamiento, VLAN
+-------------------------------------
+Switch: uno
+Jerarquia: Acceso
+Servicio: Datos, VLAN
